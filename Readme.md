@@ -15,7 +15,7 @@ Command line interface for reading Horoscope. Uses Commander.js, Inquirer.js and
 ##### Install npm Package
 
 ```sh
-$ npm install horoscope-cli
+$ npm install horoscopecli
 ```
 
 #### Method 2

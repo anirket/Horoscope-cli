@@ -1,5 +1,5 @@
 {
-  "name": "horoscope-cli",
+  "name": "horoscopecli",
   "version": "1.0.0",
   "description": "A Command Line Interface to know about yor horoscope",
   "main": "index.js",

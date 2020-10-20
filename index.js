@@ -73,7 +73,7 @@ function birthdatevalidation(input) {
         return 'Please enter valid birthdate (between 1 and 31)'
     }
     if (selectedmonth == 'Apr' || selectedmonth == 'June' || selectedmonth == 'Sep' || selectedmonth == 'Nov') {
-        if (input >= 30) {
+        if (input > 30) {
             return 'Please enter valid birthdate (month you have choosen has dates between 1 and 30 only)'
         }
     }
