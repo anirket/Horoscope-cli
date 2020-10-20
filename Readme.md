@@ -11,12 +11,18 @@ Command line interface for reading Horoscope. Uses Commander.js, Inquirer.js and
 
 
 #### Method 1
-
+step 1:
 ##### Install npm Package
 
 ```sh
 $ npm install horoscopecli
 ```
+Step 2:
+Run
+```sh
+$ horoscope-cli 
+```
+in your terminal
 
 #### Method 2
 step 1:
@@ -33,14 +39,19 @@ Step 3:
 ```sh
 $ npm link
 ```
-
+Step 4:
+Run
+```sh
+$ horoscope-cli 
+```
+in your terminal
 
 
 ### Interface Example
 
-? Enter your birth year... **2020** 
-? Select Your birthmonth... **Feb** (This will be a list)
-? Enter your birth date... **22**
+? Enter your birth year... **2020** <br>
+? Select Your birthmonth... **Feb** (This will be a list)<br>
+? Enter your birth date... **22**<br>
 ? Which type of Horoscope would you like to know? **today** (This will be a list)
 
 
