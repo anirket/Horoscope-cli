@@ -1,0 +1,20 @@
+{
+  "name": "horoscope-cli",
+  "version": "1.0.0",
+  "description": "A Command Line Interface to know about yor horoscope",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^6.1.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3",
+    "node-fetch": "^2.6.1"
+  }
+}
